@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on building mind mapping tool app to speed up my learning<br>👯 I’m looking to collaborate with teams on new technologies<br>🤝 I’m looking for help with websites or anything related 3D or graphics programming<br>🌱 I’m currently learning WebGL and Tensor<br>💬 Ask me about all the projects I already worked on<br>⚡ Fun fact: I am open for remove work and startups
+🔭 I’m currently working on building mind mapping tool app to speed up my learning<be>
+👯 I’m looking to collaborate with teams on new technologies<be>
+🤝 I’m looking for help with websites or anything related 3D or graphics programming<be>
+🌱 I’m currently learning WebGL and Tensor<be>
+💬 Ask me about all the projects I already worked on<be>
+⚡ Fun fact: I am open for remove work and startups
 
 
 ## 🌐 Socials:
