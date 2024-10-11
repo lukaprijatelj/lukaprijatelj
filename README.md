@@ -1,10 +1,10 @@
 # About Me:
-🔭 &ensp;I’m currently working on building mind mapping tool app to speed up my learning
+🔭 &ensp;I’m currently working on building Mind Mapping tool app to speed up my learning
 <br>👯 &ensp;I’m looking to collaborate with teams on new technologies
-<br>🤝 &ensp;I’m looking for help with websites or anything related 3D or graphics programming
+<br>🤝 &ensp;I’m looking for help with Websites or anything related 3D or Graphics programming
 <br>🌱 &ensp;I’m currently learning WebGL and Tensor
 <br>💬 &ensp;Ask me about all the projects I already worked on
-<br>⚡ &ensp;Fun fact: I am open for remove work and startups
+<br>⚡ &ensp;Fun fact: I am open for remote work and startups
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
