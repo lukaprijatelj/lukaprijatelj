@@ -6,11 +6,7 @@
 <br>💬 &ensp;Ask me about all the projects I already worked on
 <br>⚡ &ensp;Fun fact: I am open for remove work and startups
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/) 
-
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -61,6 +57,10 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+
+## Socials:
+[![LinkedIn](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)]([https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/](https://www.prijatelj.io/CV)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/) 
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lukaprijatelj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
