@@ -59,8 +59,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)]([https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/](https://www.prijatelj.io/CV)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/) 
+[![LinkedIn](https://img.shields.io/npm/v/npm.svg?logo=homepage)]([https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/](https://www.prijatelj.io/CV)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-prijatelj-si/) 
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lukaprijatelj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
