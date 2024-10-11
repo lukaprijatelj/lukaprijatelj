@@ -59,7 +59,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/npm/v/npm.svg?logo=homepage)]([https://linkedin.com/in/https://www.linkedin.com/in/luka-prijatelj-si/](https://www.prijatelj.io/CV)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-prijatelj-si/) 
 
 # GitHub Stats:
